@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="eng" xmlns="http://www.w3.org/ns/ttml">
+  <head>
+    <metadata>
+      <ttm:title>Media.wvx.aib</ttm:title>
+      <ttm:copyright>Copyright (c) 2015 Microsoft Corporation.  All rights reserved.</ttm:copyright>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:fontFamily="Segoe UI" tts:fontSize="13px" tts:textAlign="center" tts:color="white" />
+    </styling>
+    <layout>
+      <region xml:id="subtitleArea" style="s1" tts:origin="0% 0%" tts:extent="100% 60px" tts:padding="3px 3px" tts:backgroundColor="black" tts:opacity="0.7" tts:displayAlign="center" tts:showBackground="whenActive" />
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:00:09.889" xml:id="p0" end="00:00:11.475">発表者 1:<br />[音楽] こんにちは。</p>
+      <p begin="00:00:11.476" xml:id="p1" end="00:00:12.390">今日は、</p>
+      <p begin="00:00:12.391" xml:id="p2" end="00:00:14.205">ESI Learner Experience Portal で</p>
+      <p begin="00:00:14.206" xml:id="p3" end="00:00:16.500">Microsoft Virtual<br />Training Day に</p>
+      <p begin="00:00:16.501" xml:id="p4" end="00:00:19.095">に登録する方法を紹介します。</p>
+      <p begin="00:00:19.096" xml:id="p5" end="00:00:21.225">経験レベルに関係なく、</p>
+      <p begin="00:00:21.226" xml:id="p6" end="00:00:23.040">Microsoft Virtual<br />Training Days は</p>
+      <p begin="00:00:23.041" xml:id="p7" end="00:00:25.200">技術スキルの構築に<br />役立ちます。</p>
+      <p begin="00:00:25.201" xml:id="p8" end="00:00:28.850">これらの詳細なチャット<br />モデレート イベントは、</p>
+      <p begin="00:00:28.851" xml:id="p9" end="00:00:33.260">1 日または 2 半日で<br />さまざまなトピックをカバーします。</p>
+      <p begin="00:00:33.261" xml:id="p10" end="00:00:36.785">トピックは、Azure、データと AI、<br />セキュリティの基礎から、</p>
+      <p begin="00:00:36.786" xml:id="p11" end="00:00:41.135">高度な Azure の実装、アプリ開発、</p>
+      <p begin="00:00:41.136" xml:id="p12" end="00:00:44.455">ビジネス アプリケーション<br />などにまで及びます。</p>
+      <p begin="00:00:44.456" xml:id="p13" end="00:00:45.960">オプションを確認するには、</p>
+      <p begin="00:00:45.961" xml:id="p14" end="00:00:48.989">Enterprise Skills Initiative (ESI)、</p>
+      <p begin="00:00:48.990" xml:id="p15" end="00:00:50.835">Learner Experience Portal</p>
+      <p begin="00:00:50.836" xml:id="p16" end="00:00:53.280">(LxP とも呼ばれます) に<br />アクセスし、</p>
+      <p begin="00:00:53.281" xml:id="p17" end="00:00:56.645">職場の電子メール アドレスで<br />サインインします。</p>
+      <p begin="00:00:56.646" xml:id="p18" end="00:00:59.225">この動画の最後に<br />リンクがあります。</p>
+      <p begin="00:00:59.226" xml:id="p19" end="00:01:03.080">Microsoft Virtual Training Days<br />イベントを見つけるには、</p>
+      <p begin="00:01:03.081" xml:id="p20" end="00:01:07.410">[Microsoft Virtual Training Days]<br />タイルで[探索] を選択します。</p>
+      <p begin="00:01:09.820" xml:id="p21" end="00:01:14.465">予定されているすべての<br />イベントのリストが表示されます。</p>
+      <p begin="00:01:14.466" xml:id="p22" end="00:01:17.510">各イベント リストには、<br />タイトル、日時、</p>
+      <p begin="00:01:17.511" xml:id="p23" end="00:01:20.970">タイム ゾーン、<br />言語が含まれます。</p>
+      <p begin="00:01:20.971" xml:id="p24" end="00:01:23.300">また、ESI サポートに<br />連絡する場合に</p>
+      <p begin="00:01:23.301" xml:id="p25" end="00:01:26.820">必要な配信 ID も含まれています。</p>
+      <p begin="00:01:28.270" xml:id="p26" end="00:01:30.890">名前が示すように、</p>
+      <p begin="00:01:30.891" xml:id="p27" end="00:01:33.020">これらのイベントの場所は<br />仮想教室です。</p>
+      <p begin="00:01:33.021" xml:id="p28" end="00:01:34.430">イベントに登録する前に</p>
+      <p begin="00:01:34.431" xml:id="p29" end="00:01:35.750">知っておくべきことの<br />詳細については、</p>
+      <p begin="00:01:35.751" xml:id="p30" end="00:01:39.420">[前提条件] を<br />選択してください。</p>
+      <p begin="00:01:39.770" xml:id="p31" end="00:01:42.650">参加したいイベントが<br />見つかったが</p>
+      <p begin="00:01:42.651" xml:id="p32" end="00:01:44.110">その日付が都合が<br />つかない場合は、</p>
+      <p begin="00:01:44.111" xml:id="p33" end="00:01:45.680">リストに目を通してください。</p>
+      <p begin="00:01:45.681" xml:id="p34" end="00:01:48.140">おそらく、今後数週間のうちに、</p>
+      <p begin="00:01:48.141" xml:id="p35" end="00:01:51.570">より適切な別のイベントが<br />見つかるでしょう。</p>
+      <p begin="00:01:52.190" xml:id="p36" end="00:01:54.970">フィルターを使用して、<br />リストに表示される</p>
+      <p begin="00:01:54.971" xml:id="p37" end="00:01:56.980">リソースを絞り込むことができます。</p>
+      <p begin="00:01:56.981" xml:id="p38" end="00:01:59.480">ロール、タイム ゾーン、言語で</p>
+      <p begin="00:01:59.490" xml:id="p39" end="00:02:05.660">フィルター処理できます。</p>
+      <p begin="00:02:07.830" xml:id="p40" end="00:02:11.425">スケジュールに合うイベントが<br />見つからない場合は、</p>
+      <p begin="00:02:11.426" xml:id="p41" end="00:02:14.050">タイム ゾーン フィルターを使用して、</p>
+      <p begin="00:02:14.051" xml:id="p42" end="00:02:17.200">イベントを検索してみてください。</p>
+      <p begin="00:02:17.201" xml:id="p43" end="00:02:20.470">LxP は、ポータルを探索するときに、</p>
+      <p begin="00:02:20.471" xml:id="p44" end="00:02:24.830">選択したフィルターを保持します。それらをクリアするには、<br />[すべてクリア] を選択します。</p>
+      <p begin="00:02:26.240" xml:id="p45" end="00:02:28.440">検索ボックスで、</p>
+      <p begin="00:02:28.441" xml:id="p46" end="00:02:30.675">LxP の Virtual Training Days を</p>
+      <p begin="00:02:30.676" xml:id="p47" end="00:02:31.845">検索することもできます。</p>
+      <p begin="00:02:31.846" xml:id="p48" end="00:02:35.099">イベントのタイトルまたは関連する<br />キーワードを入力します。</p>
+      <p begin="00:02:35.100" xml:id="p49" end="00:02:36.680">必要なコンテンツが見つかったら、</p>
+      <p begin="00:02:36.681" xml:id="p50" end="00:02:39.400">それを選択して開始します。</p>
+      <p begin="00:02:39.401" xml:id="p51" end="00:02:41.790">同僚が興味を持ちそうな</p>
+      <p begin="00:02:41.791" xml:id="p52" end="00:02:44.030">Microsoft Virtual Training Days<br />イベントを見つけた場合、</p>
+      <p begin="00:02:44.031" xml:id="p53" end="00:02:46.040">または後で使用するために<br />リンクを保存したい場合は、</p>
+      <p begin="00:02:46.041" xml:id="p54" end="00:02:49.230">[リンクのコピー] を選択します。</p>
+      <p begin="00:02:49.870" xml:id="p55" end="00:02:51.950">次に、電子メール メッセージ、</p>
+      <p begin="00:02:51.951" xml:id="p56" end="00:02:54.500">オンライン会話、Teams サイト、</p>
+      <p begin="00:02:54.501" xml:id="p57" end="00:02:57.020">または他のユーザーと共有したり、<br />自分用に保存したりできる</p>
+      <p begin="00:02:57.021" xml:id="p58" end="00:03:00.690">別の場所にリンクを貼り付けます。</p>
+      <p begin="00:03:03.230" xml:id="p59" end="00:03:05.675">サインアップする準備ができたら、</p>
+      <p begin="00:03:05.676" xml:id="p60" end="00:03:08.795">[登録] を選択して、<br />LxP の外部にある</p>
+      <p begin="00:03:08.796" xml:id="p61" end="00:03:12.305">登録ページに移動します。</p>
+      <p begin="00:03:12.306" xml:id="p62" end="00:03:15.035">名前、メール アドレス、</p>
+      <p begin="00:03:15.036" xml:id="p63" end="00:03:17.620">電話番号、役職を入力します。</p>
+      <p begin="00:03:17.621" xml:id="p64" end="00:03:20.770">LxP へのサインインに<br />使用するものと同じ、</p>
+      <p begin="00:03:20.771" xml:id="p65" end="00:03:23.515">職場のメール アドレスを<br />使用して登録してください。</p>
+      <p begin="00:03:23.516" xml:id="p66" end="00:03:25.835">次に、[今すぐ登録] を選択します。</p>
+      <p begin="00:03:25.836" xml:id="p67" end="00:03:27.880">Microsoft Virtual Training Day</p>
+      <p begin="00:03:27.881" xml:id="p68" end="00:03:29.880">イベントに登録すると、</p>
+      <p begin="00:03:29.881" xml:id="p69" end="00:03:31.900">イベントへの参加手順と</p>
+      <p begin="00:03:31.901" xml:id="p70" end="00:03:33.520">イベントをカレンダーに追加する</p>
+      <p begin="00:03:33.521" xml:id="p71" end="00:03:34.930">オプションを含む</p>
+      <p begin="00:03:34.931" xml:id="p72" end="00:03:37.730">確認メールが届きます。</p>
+      <p begin="00:03:37.731" xml:id="p73" end="00:03:41.425">また、イベントの前にいくつかの<br />リマインダーが届きます。</p>
+      <p begin="00:03:41.426" xml:id="p74" end="00:03:44.320">登録した Microsoft Virtual</p>
+      <p begin="00:03:44.321" xml:id="p75" end="00:03:45.415">Training Days イベントによっては、</p>
+      <p begin="00:03:45.416" xml:id="p76" end="00:03:47.140">確認メールとリマインダー メールが</p>
+      <p begin="00:03:47.141" xml:id="p77" end="00:03:49.195">異なるメール アドレスから<br />送信されます。</p>
+      <p begin="00:03:49.196" xml:id="p78" end="00:03:52.745">これらのアドレスは、<br />この動画の最後にあります。</p>
+      <p begin="00:03:52.746" xml:id="p79" end="00:03:57.010">Microsoft Virtual Training Days<br />のイベントは、</p>
+      <p begin="00:03:57.011" xml:id="p80" end="00:04:01.050">LxP の [自分の登録] には<br />表示されません。</p>
+      <p begin="00:04:01.051" xml:id="p81" end="00:04:02.805">登録を確認するために、</p>
+      <p begin="00:04:02.806" xml:id="p82" end="00:04:04.610">確認メールを保存してください。</p>
+      <p begin="00:04:04.611" xml:id="p83" end="00:04:07.220">確認メールが見つからない場合は、</p>
+      <p begin="00:04:07.221" xml:id="p84" end="00:04:11.040">LxP メニュー バーで<br />[ヘルプ] を選択します。</p>
+      <p begin="00:04:11.450" xml:id="p85" end="00:04:13.970">これらのメール アドレスを<br />セーフ リストに追加して、</p>
+      <p begin="00:04:13.971" xml:id="p86" end="00:04:16.010">Virtual Training Days の</p>
+      <p begin="00:04:16.011" xml:id="p87" end="00:04:19.130">登録確認とリマインダーを<br />受け取ります。</p>
+      <p begin="00:04:19.131" xml:id="p88" end="00:04:23.440">LxP (esi.microsoft.com) に<br />移動します。</p>
+      <p begin="00:04:23.441" xml:id="p89" end="00:04:31.090">ESI サポート (aka.ms/ESIsupport) に<br />お問い合わせください。</p>
+      <p begin="00:04:31.091" xml:id="p90" end="00:04:32.730">この推奨ビデオ、</p>
+      <p begin="00:04:32.731" xml:id="p91" end="00:04:34.890">Enterprise Skills Initiative、</p>
+      <p begin="00:04:34.891" xml:id="p92" end="00:04:37.570">Learner Experience Portal を<br />ご覧ください。</p>
+    </div>
+  </body>
+</tt>
